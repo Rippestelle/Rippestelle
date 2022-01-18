@@ -23,7 +23,7 @@
                - Quality<br>
                - SEO<br>
                - Marketing: how to highlight the content of a website<br>
-               - Desin & Responsive
+               - Design & Responsive <br>
                - Customized advice<br>
                - To deliver a good customer service or to train customers to manage their own website<br>
                - Testing code
