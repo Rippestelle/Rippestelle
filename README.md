@@ -36,7 +36,7 @@
 <br>
 <br>
 
-- 📫 How to reach me ? You can send me an email at rippestelle@gmail.com, go on my LinkedIn profile (https://www.linkedin.com/in/estelle-rippe/) or send me a letter by seagull 🕊️
+- 📫 How to reach me ? You can send me an email at estelle.rippe.pro@gmail.com, go on my LinkedIn profile (https://www.linkedin.com/in/estelle-rippe/) or send me a letter by seagull 🕊️
      I'm also on <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> and <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">, so do not hesitate to contact me :wink:
      
  
