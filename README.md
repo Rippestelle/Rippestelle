@@ -1,6 +1,5 @@
 <h1> 👋 Hi there, I'm Estelle, Web Developer !</h1> </br>
 
-<img src="">
  <h2>Come in, make yourself at home...</h2>
      
 - 👀 I’m currently looking for a full-remote job or new clients as I'm trying the freelance adventure for the 2022 year.
