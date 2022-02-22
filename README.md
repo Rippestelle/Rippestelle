@@ -12,7 +12,7 @@
 
 - 👶 In August and September, I did an internship with two freelancers on this project: https://www.prime-copy.com/ . It's an application to generate content thanks to an Artificial Intelligence (with Open AI API). I mostly did front-end and I have acquired a lot of knowledge in marketing and user experience. 
 
-- 👩‍💻 Concerning my current projects: I'm working on customed WordPress projects and on my Portfolio. I'm also learning how to use TypeScript and Angular (with Ionic) on a beautiful literary project within a team (https://www.bookootro.com/). And I'm starting to work with new clients.
+- 👩‍💻 Concerning my current projects: I'm working on customed WordPress projects and on my Portfolio. I'm also learning new Technologies like Angular with Ionic and soon Symfony. In March, my first project with a client will be online.
  <br>Here are two small WordPress projects online:   
              - https://ozart.go.yj.fr/<br>
              - https://leaf-n-bloom.go.yn.fr/
