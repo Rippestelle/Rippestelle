@@ -1,23 +1,6 @@
 <h1> 👋 Hi there, I'm Estelle, Web Developer !</h1> </br>
 
  <h2>Come in, make yourself at home...</h2>
-     
-- 👀 I’m currently looking for an internship job as Web Developer to continue my reconversion in order to get new diploma of Application Designer and Developer with the 3WAcademy. This new adventure strats on April 11th 2022 and I'll be mostly learning Project Management and framework like React and Node.js.
-
-- 🧠 Thanks to five months of intensive training (from January 2021 to June 2021) with O'clock School, I've learned how to use HTML5, CSS3, PHP7, MySQL, JS, Sass, WordPress and Vue.js.
-
-- 🎓 In July 2021 I got the Opquast Certification for "Quality control in Web projects".
-
-- 🎓 Last September I got my professional title in Web Development.
-
-- 👶 In August and September, I did an internship with two freelancers on this project: <a href="https://www.prime-copy.com/">Prime Copy</a> . It's an application to generate content thanks to an Artificial Intelligence (with Open AI API). I mostly did front-end and I have acquired a lot of knowledge in marketing and user experience. 
-
-- 👩‍💻 Concerning my current projects: I'm working on customed WordPress projects and on my Portfolio. I'm also learning new Technologies like Angular with Ionic and soon Symfony. In March, my first project with a client will be online.
- <br> Here is my Portfolio (in process): 
-             - <a href="https://estelle-rippe.netlify.app/">Portfolio</a>
- <br>Here are two small WordPress projects online:   
-             - <a href="https://ozart.go.yj.fr/">Ozart: projet de fin d'études</a><br>
-             - <a href="https://leaf-n-bloom.go.yn.fr/">Leaf & Bloom: Guide de l'Herboriste</a>
            
 - For nowadays, here are technologies I can work with: <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br>
