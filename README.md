@@ -1,6 +1,6 @@
 <h1> 👋 Hi there, I'm Estelle, Web Developer !</h1> </br>
 
- <h2>Come in, make yourself at home...</h2>
+ <!--<h2>Come in, make yourself at home...</h2>
            
 - For nowadays, here are technologies I can work with: <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br>
@@ -31,6 +31,6 @@
 - 🎈 During my spare time, when I'm not programming: I love to read, to cook (especially to eat :yum:), to listen and discover musics, to play board games and long walks with my dog. I'm also spending time on <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> and <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">:blush:
 
 - 💻 And what about my environment? <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
+-->
 
  
